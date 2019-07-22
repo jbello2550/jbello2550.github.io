@@ -1,0 +1,40 @@
+﻿/*CSS for the project.html page*/
+
+/*Affect the div contianer whihc hold the image and the caption below*/
+.main_body_projects {
+    text-align: left;
+    margin-top: 40px;
+    margin: 40px auto 0px auto;
+}
+/*Affect the div contianer whihc hold the image and the caption below*/
+.Projects_container {
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+/*Affect the link aspect of the div contianer*/
+.Projects_container a {
+    text-decoration: none;
+    color: black;
+}
+/*Affects all images that have the class of Projects_image*/
+.Projects_image{
+    width: 350px;
+    height: 350px;
+}
+/*Affects the specific for the SAMS Projects_image*/
+#SAMS {
+    margin-right: 30px;
+}
+/*Affects the specific FlowH2O Projects_image*/
+#FlowH2O {
+    margin-right: 30px;
+}
+/*Affects the specific NASA Projects_image*/
+#NASA{
+    
+}
+/*Affects the specific DCLM Projects_image*/
+#Dclm {
+    margin-right: 30px;
+}
