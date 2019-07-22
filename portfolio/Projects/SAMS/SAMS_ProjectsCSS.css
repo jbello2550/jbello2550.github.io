@@ -1,0 +1,33 @@
+﻿/*The CSS page for the SAMS_Projects.html*/
+
+/*Affecs the entire body of the webpage which is enclosed within a div*/
+.main_body_projects {
+    margin-top: 45px;
+}
+/*Affects the overall tite for each div container*/
+.SAMS_Projects_container h1 {
+    font-size: 45px;
+    color: black;
+    color: #19afe6;
+    margin-bottom: 0px;
+}/*Affects all the p tags that are within each SAMS_Projects_container*/
+.SAMS_Projects_container p {
+    margin-bottom: 10px;
+}
+/*Affects all the divs that contain the image and link to to webpage
+    which are all within the SAMS_Projects_container*/
+.image_container {
+    width: 100%;
+    margin-bottom: 40px;
+    text-align: center;
+}
+/*Affecs all the a link tags that are within each image contianer div tag */
+.image_container a {
+    font-size: 14px;
+    font-family: 'proxima_nova_rgregular';
+    margin-bottom: 10px;
+}
+/*Affects all the individual images that*/
+#SAMS {
+    width: 90%;
+}
