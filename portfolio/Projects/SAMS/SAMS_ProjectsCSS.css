@@ -26,8 +26,10 @@
     font-size: 14px;
     font-family: 'proxima_nova_rgregular';
     margin-bottom: 10px;
+    color: blue;
 }
-/*Affects all the individual images that*/
-#SAMS {
+/*Affects all the individual images*/
+.SAMS_Projects_image {
     width: 90%;
+    border-radius: 5px;
 }
