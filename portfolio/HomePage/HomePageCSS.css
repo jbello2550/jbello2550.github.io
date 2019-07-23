@@ -1,0 +1,14 @@
+﻿/*CSS for the homepage*/
+
+/*Background image for the homepage*/
+.Home {
+    height: 100vh;
+}
+/*Background image for the homepage*/
+.Home_background {
+    background-image: url("http://hdqwalls.com/wallpapers/blue-white-pattern-abstract-4k-5k-06.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100%;
+}
