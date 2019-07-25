@@ -3,31 +3,20 @@
 /*Affect the div container whihc houses all the other 
     individual divs for the images adn captions*/
 .main_body_Photos {
-    margin: 45pc auto 0px auto;
     margin-top: 45px;
+    text-align: center;
 }
 /*Affects the div container for each individual image with its caption*/
 .Photos_caption_container {
-    text-align: center; 
     display: inline-block;
-    margin-bottom: 50px;
     vertical-align: text-top;
+    padding: 25px;
 }
-/*Affects specifically the image of the black singers*/
-#black_group_image {
-    width: 550px;
-    padding-right: 50px;
+/*Affects image within the each container*/
+.Photos_caption_container img{
+     width: 500px;
 }
-/*Affects specifically the image of the front oval office*/
-#front_oval_office_image {
-    width: 500px;
-}
-/*Affects specifically the image of the black singers*/
-#back_oval_office_image {
-    width: 500px;
-    margin-right: 50px;
-}
-/*Affects specifically the image of the black singers*/
-#Limousine_image {
-    width: 600px;
+/*Affects image within the each container*/
+.Photos_caption_container p{
+     padding-top: 3px;
 }

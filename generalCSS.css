@@ -44,8 +44,8 @@
 }
 /*Affects the main-body of the page*/
 .main_body {
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 10%;
+    margin-left: 10%;
     font-family: 'Amatic SC', cursive;
     font-weight: bold;
     margin-top: 30.15px;
