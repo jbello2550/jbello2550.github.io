@@ -16,7 +16,7 @@
     max-width: 50%;
     padding: 0 7.5px;
 }
-@media (max-width: 800px) {
+@media only screen and (max-width: 400px) {
     .main_body_drawings_column {
         flex: 100%;
         max-width: 100%;
